@@ -16,12 +16,13 @@
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 </p> 
 <ul>
-<li>🛠️ **Programming Skills**: Proficient in Python, C, C++, Java, HTML, CSS, JavaScript and SQL.</li></ul>ul>
+<li>🛠️ **Programming Skills**: Proficient in Python, C, C++, Java, HTML, CSS, JavaScript and SQL.</li></ul>
     <!-- skill images -->
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,sql&theme=dark" />
 </p> 
-- 🌐 **IoT Projects**: Experienced in building IoT systems using MQTT, SPIFFS, and other protocols.  
+<ul>
+<li> 🌐 **IoT Projects**: Experienced in building IoT systems using MQTT, SPIFFS, and other protocols.  </li></ul>
  
 
 ### 🔧 Projects  
@@ -35,14 +36,16 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=arduino,pycharm,androidstudio,vscode&theme=dark" />
 </p>
-- **Other Expertise**: Analog Electronics, Microprocessor Design, Wireless Communication.
+<ul>
+<li> **Other Expertise**: Analog Electronics, Microprocessor Design, Wireless Communication.</li></ul>
 
 ### 🌱 Currently Learning  
 - Advanced Android development using Kotlin and Firebase.
     <p align="center">
     <img src="https://skillicons.dev/icons?i=kotlin,firebase&theme=dark" />
 </p>
-- Enhancing cloud integration with IoT.  
+<ul>
+<li> Enhancing cloud integration with IoT.  </li></ul>
 
 ### ⚡ My Passion 
 I love exploring technology and blending it with creativity to solve real-world problems!  
