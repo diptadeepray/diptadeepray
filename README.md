@@ -6,7 +6,7 @@
 
 
 
-</body>
+
 
 ### 🚀 About Me  
 - 🧑‍🎓 **Electronics Engineer**: MSc in Electronics from West Bengal State University.  
@@ -36,4 +36,7 @@ I love exploring technology and blending it with creativity to solve real-world 
 - Email: [diptadeepray@gmail.com]  
 - LinkedIn: [Diptadeep Ray](www.linkedin.com/in/diptadeep-ray-954094190) 
 
-<img src="Closing Banner.png" >
+<img src="Contact Banner.png" >
+
+
+</body>
