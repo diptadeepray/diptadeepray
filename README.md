@@ -15,8 +15,8 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 </p> 
-###  
-- 🛠️ **Programming Skills**: Proficient in Python, C, C++, Java, HTML, CSS, JavaScript and SQL.
+<ul>
+<li>🛠️ **Programming Skills**: Proficient in Python, C, C++, Java, HTML, CSS, JavaScript and SQL.</li></ul>ul>
     <!-- skill images -->
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,sql&theme=dark" />
