@@ -10,8 +10,16 @@
 
 ### 🚀 About Me  
 - 🧑‍🎓 **Electronics Engineer**: MSc in Electronics from West Bengal State University.  
-- 💻 **Embedded Systems Enthusiast**: Skilled in working with Arduino, ESP32, ESP8266, NodeMCU, and Raspberry Pi.  
-- 🛠️ **Programming Skills**: Proficient in Python, Java, JavaScript, HTML, CSS, C, C++, and SQL.  
+- 💻 **Embedded Systems Enthusiast**: Skilled in working with Arduino, ESP32, ESP8266, NodeMCU, and Raspberry Pi.
+    <!-- skill images -->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+</p> 
+- 🛠️ **Programming Skills**: Proficient in Python, C, C++, Java, HTML, CSS, JavaScript and SQL.
+    <!-- skill images -->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,sql&theme=dark" />
+</p> 
 - 🌐 **IoT Projects**: Experienced in building IoT systems using MQTT, SPIFFS, and other protocols.  
  
 
@@ -22,11 +30,17 @@
 
 ### 🌟 Skills  
 - **IoT Protocols**: MQTT, SPI, I2C, UART.  
-- **Software**: Android Studio, Flask, Java development tools.  
-- **Other Expertise**: Analog Electronics, Microprocessor Design, Wireless Communication.   
+- **Software**: Arduino IDE, PyCharm, Android Studio, VS Code.
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=arduino,pycharm,androidstudio,vscode&theme=dark" />
+</p>
+- **Other Expertise**: Analog Electronics, Microprocessor Design, Wireless Communication.
 
 ### 🌱 Currently Learning  
-- Advanced Android development using Kotlin.  
+- Advanced Android development using Kotlin and Firebase.
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=kotlin,firebase&theme=dark" />
+</p>
 - Enhancing cloud integration with IoT.  
 
 ### ⚡ My Passion 
