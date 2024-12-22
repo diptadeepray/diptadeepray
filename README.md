@@ -2,7 +2,7 @@
 <body style="background-color:black;">
 <h1 align="center">👋 Hi, I'm Diptadeep Ray  </h1>
 <p align="center">
-<img src="Opening picture.png"  width="400" height="400">
+<img src="Opening banner.png"  width="400" height="400">
 
 
 
@@ -23,11 +23,7 @@
 ### 🌟 Skills  
 - **IoT Protocols**: MQTT, SPI, I2C, UART.  
 - **Software**: Android Studio, Flask, Java development tools.  
-- **Other Expertise**: Analog Electronics, Microprocessor Design, Wireless Communication.  
-
-### 📫 Contact Me  
-- Email: [diptadeepray@gmail.com]  
-- LinkedIn: [Diptadeep Ray](www.linkedin.com/in/diptadeep-ray-954094190)  
+- **Other Expertise**: Analog Electronics, Microprocessor Design, Wireless Communication.   
 
 ### 🌱 Currently Learning  
 - Advanced Android development using Kotlin.  
@@ -35,3 +31,9 @@
 
 ### ⚡ My Passion 
 I love exploring technology and blending it with creativity to solve real-world problems!  
+
+### 📫 Contact Me  
+- Email: [diptadeepray@gmail.com]  
+- LinkedIn: [Diptadeep Ray](www.linkedin.com/in/diptadeep-ray-954094190) 
+
+<img src="Closing banner.png"  width="400" height="400">
