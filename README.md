@@ -48,7 +48,8 @@
 <li> Enhancing cloud integration with IoT.  </li></ul>
 
 ### ⚡ My Passion 
-I love exploring technology and blending it with creativity to solve real-world problems!  
+<ul>
+<li>I love exploring technology and blending it with creativity to solve real-world problems!  </li></ul>
 
 ### 📫 Contact Me  
 - Email: diptadeepray@gmail.com
