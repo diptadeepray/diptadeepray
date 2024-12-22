@@ -51,7 +51,7 @@
 I love exploring technology and blending it with creativity to solve real-world problems!  
 
 ### 📫 Contact Me  
-- Email: [diptadeepray@gmail.com]  
+- Email: diptadeepray@gmail.com
 - LinkedIn: [Diptadeep Ray](www.linkedin.com/in/diptadeep-ray-954094190) 
 
 <img src="Contact Banner.png" >
