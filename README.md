@@ -53,7 +53,7 @@
 
 ### 📫 Contact Me  
 - Email: diptadeepray@gmail.com
-- LinkedIn: (www.linkedin.com/in/diptadeep-ray-954094190) 
+- LinkedIn: www.linkedin.com/in/diptadeep-ray-954094190
 
 <img src="Contact Banner.png" >
 
