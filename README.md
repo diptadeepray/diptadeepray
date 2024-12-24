@@ -52,8 +52,8 @@
 <li>I love exploring technology and blending it with creativity to solve real-world problems!  </li></ul>
 
 ### 📫 Contact Me  
-- Email: diptadeepray@gmail.com
-- LinkedIn: www.linkedin.com/in/diptadeep-ray-954094190
+- 📞 [Phone: +91 89678 42495](tel:+919876543210)
+- ✉️ Email: diptadeepray@gmail.com
 
 <img src="Contact Banner.png" >
 
